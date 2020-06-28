@@ -19,9 +19,9 @@ function res7ock()
     $shufflestr = str_shuffle($str);
     $ft =strtolower($firstname[1]);
     $lt = strtolower($lastname[1]);
-    echo "$ft$lt@mailsac.com|Akugans23\n";
-    $fp = fopen("email_bocom.txt", 'a');
-        fwrite($fp, "$ft$lt@mailsac.com|Akugans23\n");
+    echo "$ft$lt@mailsac.com|Janganzina123\r\n";
+    $fp = fopen("mails.txt", 'a');
+        fwrite($fp, "$ft$lt@mailsac.com|Janganzina123\r\n");
         fclose($fp);
 }
 
