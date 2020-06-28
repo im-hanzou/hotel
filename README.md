@@ -1,2 +1,11 @@
-# hotel
-zina bos
+# Hotel
+Jangan zina bos
+install git & php & php-curl
+
+# Run
+php mail.php (generate email, saved to mails.txt)
+php crot.php mails.txt (create accounts)
+
+verify cek https://mailsac.com/inbox/nama@mailsac.com
+
+# Thanks to Res7ock
