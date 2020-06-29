@@ -1,11 +1,15 @@
 # Hotel
-Jangan zina bos<br>
-install git & php & php-curl
+Jangan ya zina bos
+
+# Requirement
+apt install git php
 
 # Run
 php mail.php (generate email, saved to mails.txt)<br>
-php crot.php mails.txt (create accounts)
+php genmail.php (generate email, saved to email.txt)<br>
+php crot.php mails.txt/email.txt (create accounts)
 
-verify cek https://mailsac.com/inbox/nama@mailsac.com
+if use mail.php verify cek https://mailsac.com/inbox/nama@mailsac.com<br>
+if use genmail.php verify cek https://emailfake.com/nama@mailmail.biz
 
 # Thanks to Res7ock
